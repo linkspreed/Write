@@ -1,4 +1,4 @@
-# <img align="left" alt="Write" width="100px" src="https://write.cf/assets/front/img/63038dc2b97fa.png" draggable="false" /> Write ([Click to try 🚀](https://write.cf/))
+# <img align="left" alt="Write" width="300px" src="https://write.cf/assets/front/img/63038dc2b97fa.png" draggable="false" /> ([Click to try 🚀](https://write.cf/))
 
 Write ✍️ - create your own successful blog 📂 in just a few steps 🚀
 
