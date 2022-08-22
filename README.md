@@ -15,31 +15,31 @@ Write ✍️ - create your own successful blog 📂 in just a few steps 🚀
 
 ## Features
 
- – Custom Domain
- – Automatic Subdomain & Path Based URL
- – Light & Dark Dashboard
- – Advanced QR Builder to generate QR Code for any URL
- – Saved QR Codes Management
- – 4 Tenant Blog Templates
- – 4 vCard Templates
- – Multilingual vCards & RTL Support
- – Multilingual Tenant Website Frontend
- – RTL Supported Tenant Website Frontend
- – Advertisements & Google Adsense
- – Package Purchase, Membership extend
- – Announcement Popup Builder
- – Base Color Settings
- – Preloader, Logo, Favicon Upload
- – SEO Info Management
- – Hide / Show Home Sections
- – Drag & Drop Menu Builder
- – Posts Management
- – Registered Users Management
- – Custom Page Management
- – Gallery, About, FAQ, Contact etc page management
- – Followers / Followings
- – Tenant’s users have their own dashboard
- – Tenant’s users can bookmark post
+ - Custom Domain
+ - Automatic Subdomain & Path Based URL
+ - Light & Dark Dashboard
+ - Advanced QR Builder to generate QR Code for any URL
+ - Saved QR Codes Management
+ - 4 Tenant Blog Templates
+ - 4 vCard Templates
+ - Multilingual vCards & RTL Support
+ - Multilingual Tenant Website Frontend
+ - RTL Supported Tenant Website Frontend
+ - Advertisements & Google Adsense
+ - Package Purchase, Membership extend
+ - Announcement Popup Builder
+ - Base Color Settings
+ - Preloader, Logo, Favicon Upload
+ - SEO Info Management
+ - Hide / Show Home Sections
+ - Drag & Drop Menu Builder
+ - Posts Management
+ - Registered Users Management
+ - Custom Page Management
+ - Gallery, About, FAQ, Contact etc page management
+ - Followers / Followings
+ - Tenant’s users have their own dashboard
+ - Tenant’s users can bookmark post
 
 **AND SO MUCH MORE ...**
 
