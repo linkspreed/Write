@@ -1,11 +1,11 @@
-# <img align="left" alt="Write" width="40px" src="https://write.cf/assets/front/img/63038dc2b97fa.png" draggable="false" /> Write ([Click to try 🚀](https://write.cf/))
+# <img align="left" alt="Write" width=100px" src="https://write.cf/assets/front/img/63038dc2b97fa.png" draggable="false" /> Write ([Click to try 🚀](https://write.cf/))
 
-Analytix💙 - as a developer,👨‍💻 get deep insights and analyzes for your websites📈 - free of charge, unlimited storage space and in real time
+Write ✍️ - create your own successful blog 📂 in just a few steps 🚀
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Analytix/blob/main/changelog.md)** **Check out the full Analytix changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Analytix/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Analytix besides development**
+## **[Changelog ✍️](https://github.com/linkspreed/Write/blob/main/changelog.md)** **Check out the full Write changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Write/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Write besides development**
 
 
 <div align="center">
