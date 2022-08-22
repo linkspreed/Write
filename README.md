@@ -62,13 +62,13 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ğŸ
 
 
 ### Welcome
-<img align="center" alt="Write" width="3000px" src="https://github.com/linkspreed/Write/blob/main/screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Write" width="3000px" src="https://github.com/linkspreed/Write/blob/main/screenshots/1.png" draggable="false" />
 
 ### We beilieve in Customer Trust
-<img align="center" alt="Write" width="3000px" src="https://github.com/linkspreed/Write/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Write" width="3000px" src="https://github.com/linkspreed/Write/blob/main/screenshots/2.png" draggable="false" />
 
 ### Features
-<img align="center" alt="Write" width="3000px" src="https://github.com/linkspreed/Write/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Write" width="3000px" src="https://github.com/linkspreed/Write/blob/main/screenshots/3.png" draggable="false" />
 
 ### Register
-<img align="center" alt="Write" width="3000px" src="https://github.com/linkspreed/Write/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Write" width="3000px" src="https://github.com/linkspreed/Write/blob/main/screenshots/4.png" draggable="false" />
