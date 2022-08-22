@@ -72,6 +72,3 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ğŸ
 
 ### Register
 <img align="center" alt="Write" width="3000px" src="https://github.com/linkspreed/Write/blob/main/screenshots/4.PNG" draggable="false" />
-
-### Dashboard
-<img align="center" alt="Write" width="3000px" src="https://github.com/linkspreed/Write/blob/main/screenshots/5.PNG" draggable="false" />
