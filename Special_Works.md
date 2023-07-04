@@ -1,3 +1,8 @@
+### 04.07.2023 (announcement Write)
+- 📝✨ Exciting news, folks! We've just added Write to our Subdomain system! 🎉🔗 Now, https://write.cf will redirect you to https://write.linkspreed.com. Don't worry, nothing changes in your experience. It's all happening behind the scenes! 🌐🔧 So, are you ready to continue using our platform with all your existing data? Let us know! 😊👇 #WriteUpdates #UserExperience
+
+### 04.07.2023 (announcement Write)
+- 🚀📝✨ Exciting news! We just relaunched our platform Write to fix the pesky 500 error on our website. But fear not, all your current data is safe and nothing has changed for you! 🎉💪💻 Have you noticed any improvements since the relaunch? Let us know! #WriteRelaunch #BugFix #Feedback
 
 # 22.08.2022
   - Write.cf now gets its own Github repository 🥳
